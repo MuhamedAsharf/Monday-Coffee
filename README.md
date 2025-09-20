@@ -1,10 +1,13 @@
 Project Overview
+
 This project analyzes sales and customer data for "Monday Coffee," an online retailer operating in India since January 2023. The main goal is to identify the top three Indian cities ideal for new coffee shop locations, based on consumer demand and sales performance. Using SQL analytics, this project provides data-driven insights to support strategic business expansion.
 
 Database Schema
+
 The analysis uses data from sales, customers, city (including population and estimated_rent), and products tables.
 
 Key Analyses & Insights
+
 The project addresses critical business questions to inform strategic decisions:
 
 Market Demand:
